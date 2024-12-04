@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924145439347",
+    "project_id": "pcallerc",
+    "storage_bucket": "pcallerc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924145439347:android:030407bfddfc479f7d1006",
+        "android_client_info": {
+          "package_name": "com.example.crudadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY95hG_wXvtRvOWu33570MKcvpFdCXMMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
